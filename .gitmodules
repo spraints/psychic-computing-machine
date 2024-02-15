@@ -1,0 +1,3 @@
+[submodule "silver-eureka"]
+	path = silver-eureka
+	url = https://github.com/spraints/silver-eureka
